@@ -1,4 +1,4 @@
-# update-to-sass
+# Update-To-Sass or Css
 You probably know the [CSS with SuperPower](https://sass-lang.com/) ? Here is a script which will help you to update fastly and with a secure method your project.
 
 # How to use ?
