@@ -11,7 +11,7 @@ You probably know the [CSS with SuperPower](https://sass-lang.com/) ? Here is a 
 
 # Script Usage
 
-./update-css-to-scss-mode.sh <mode>
+`./update-css-to-scss-mode.sh` <mode>
 <mode>: CSS --> Which will update your project with the css mode.
 <mode>: SASS --> Which will update your project with the sass mode.
 
