@@ -1,8 +1,6 @@
 # Update-To-Sass or Css
 You probably know the [CSS with SuperPower](https://sass-lang.com/) ? Here is a script which will help you to update fastly and with a secure method your project.
 
-#SASS #CSS #Web #Schell #automation
-
 <p align="center">
 <kbd>
   <img src="https://miro.medium.com/max/2400/1*miUATuy4zIZlyu5ubWRgIw.png" width="255px" height="255px">
